@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="full_adder.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_LSO" xil_pn:name=".lso"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="VGA_LOGIC.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="VGA_LOGIC.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="VGA_LOGIC.xst"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="full_adder_4bit.bld"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_CHK" xil_pn:name="full_adder_4bit.chk"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="full_adder_4bit.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_CXT" xil_pn:name="full_adder_4bit.cxt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_GYD" xil_pn:name="full_adder_4bit.gyd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_JEDEC" xil_pn:name="full_adder_4bit.jed"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="full_adder_4bit.log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="full_adder_4bit.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MFD" xil_pn:name="full_adder_4bit.mfd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGA" xil_pn:name="full_adder_4bit.nga"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="full_adder_4bit.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="full_adder_4bit.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="full_adder_4bit.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="full_adder_4bit.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PNX" xil_pn:name="full_adder_4bit.pnx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="full_adder_4bit.prj"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="full_adder_4bit.rpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="full_adder_4bit.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="full_adder_4bit.syr"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="full_adder_4bit.tim"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="full_adder_4bit.tspec"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_VM6" xil_pn:name="full_adder_4bit.vm6"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="full_adder_4bit.xml"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="full_adder_4bit.xst"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="full_adder_4bit_build.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="full_adder_4bit_html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="full_adder_4bit_ngdbuild.xrpt"/>
+    <file xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="full_adder_4bit_pad.csv"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="full_adder_4bit_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1462579886" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1462579886">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1462579886" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="6859759235992213302" xil_pn:start_ts="1462579886">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1462582569" xil_pn:in_ck="396234551464492894" xil_pn:name="TRANEXT_xstsynthesize_xbr" xil_pn:prop_ck="-6265521972570869874" xil_pn:start_ts="1462582565">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="full_adder_4bit.lso"/>
+      <outfile xil_pn:name="full_adder_4bit.ngc"/>
+      <outfile xil_pn:name="full_adder_4bit.ngr"/>
+      <outfile xil_pn:name="full_adder_4bit.prj"/>
+      <outfile xil_pn:name="full_adder_4bit.stx"/>
+      <outfile xil_pn:name="full_adder_4bit.syr"/>
+      <outfile xil_pn:name="full_adder_4bit.xst"/>
+      <outfile xil_pn:name="full_adder_4bit_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1462579896" xil_pn:in_ck="-3311236508295076092" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-5551927966580657338" xil_pn:start_ts="1462579896">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1462582572" xil_pn:in_ck="-5144497753800860274" xil_pn:name="TRAN_ngdbuild" xil_pn:prop_ck="2820029809837737375" xil_pn:start_ts="1462582569">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <outfile xil_pn:name="full_adder_4bit.bld"/>
+      <outfile xil_pn:name="full_adder_4bit.ngd"/>
+      <outfile xil_pn:name="full_adder_4bit_ngdbuild.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1462582576" xil_pn:in_ck="6687090381250485515" xil_pn:name="TRANEXT_vm6File_xbr" xil_pn:prop_ck="-3910071735136580387" xil_pn:start_ts="1462582572">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="full_adder_4bit.chk"/>
+      <outfile xil_pn:name="full_adder_4bit.cxt"/>
+      <outfile xil_pn:name="full_adder_4bit.gyd"/>
+      <outfile xil_pn:name="full_adder_4bit.log"/>
+      <outfile xil_pn:name="full_adder_4bit.mfd"/>
+      <outfile xil_pn:name="full_adder_4bit.nga"/>
+      <outfile xil_pn:name="full_adder_4bit.pad"/>
+      <outfile xil_pn:name="full_adder_4bit.pnx"/>
+      <outfile xil_pn:name="full_adder_4bit.rpt"/>
+      <outfile xil_pn:name="full_adder_4bit.tim"/>
+      <outfile xil_pn:name="full_adder_4bit.tspec"/>
+      <outfile xil_pn:name="full_adder_4bit.vm6"/>
+      <outfile xil_pn:name="full_adder_4bit.xml"/>
+      <outfile xil_pn:name="full_adder_4bit_build.xml"/>
+      <outfile xil_pn:name="full_adder_4bit_html"/>
+      <outfile xil_pn:name="full_adder_4bit_pad.csv"/>
+    </transform>
+    <transform xil_pn:end_ts="1462582577" xil_pn:in_ck="6687090381250494379" xil_pn:name="TRANEXT_crtProg_xbr" xil_pn:prop_ck="5245363024343" xil_pn:start_ts="1462582576">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="full_adder_4bit.jed"/>
+    </transform>
+    <transform xil_pn:end_ts="1462579915" xil_pn:in_ck="6687090381250494379" xil_pn:name="TRAN_timRpt" xil_pn:prop_ck="111903974446" xil_pn:start_ts="1462579913">
+      <status xil_pn:value="AbortedRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="InputChanged"/>
+    </transform>
+  </transforms>
+
+</generated_project>

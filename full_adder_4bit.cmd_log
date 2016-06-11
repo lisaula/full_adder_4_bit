@@ -1,0 +1,26 @@
+xst -intstyle ise -ifn "C:/Users/Raim/Documents/Laboratorio/full_adder/full_adder_4bit.xst" -ofn "C:/Users/Raim/Documents/Laboratorio/full_adder/full_adder_4bit.syr" 
+ngdbuild -intstyle ise -dd _ngo -uc full_adder4_MapeoSalidas.ucf -p xc2c256-TQ144-6 full_adder_4bit.ngc full_adder_4bit.ngd  
+cpldfit -intstyle ise -p xc2c256-6-TQ144 -ofmt vhdl -optimize density -htmlrpt -loc on -slew fast -init low -inputs 32 -pterms 28 -unused keeper -terminate keeper -iostd LVCMOS18 full_adder_4bit.ngd 
+XSLTProcess full_adder_4bit_build.xml 
+tsim -intstyle ise full_adder_4bit full_adder_4bit.nga 
+taengine -intstyle ise -f full_adder_4bit -w --format html1 -l full_adder_4bit_html/tim/timing_report.htm 
+hprep6 -s IEEE1149 -i full_adder_4bit 
+xst -intstyle ise -ifn "C:/Users/Raim/Documents/Laboratorio/full_adder/full_adder_4bit.xst" -ofn "C:/Users/Raim/Documents/Laboratorio/full_adder/full_adder_4bit.syr" 
+xst -intstyle ise -ifn "C:/Users/Raim/Documents/Laboratorio/full_adder/full_adder_4bit.xst" -ofn "C:/Users/Raim/Documents/Laboratorio/full_adder/full_adder_4bit.syr" 
+ngdbuild -intstyle ise -dd _ngo -uc full_adder4_MapeoSalidas.ucf -p xc2c256-TQ144-6 full_adder_4bit.ngc full_adder_4bit.ngd  
+cpldfit -intstyle ise -p xc2c256-6-TQ144 -ofmt vhdl -optimize density -htmlrpt -loc on -slew fast -init low -inputs 32 -pterms 28 -unused keeper -terminate keeper -iostd LVCMOS18 full_adder_4bit.ngd 
+XSLTProcess full_adder_4bit_build.xml 
+tsim -intstyle ise full_adder_4bit full_adder_4bit.nga 
+hprep6 -s IEEE1149 -i full_adder_4bit 
+xst -intstyle ise -ifn "C:/Users/Raim/Documents/Laboratorio/full_adder/full_adder_4bit.xst" -ofn "C:/Users/Raim/Documents/Laboratorio/full_adder/full_adder_4bit.syr" 
+ngdbuild -intstyle ise -dd _ngo -uc full_adder4_MapeoSalidas.ucf -p xc2c256-TQ144-6 full_adder_4bit.ngc full_adder_4bit.ngd  
+cpldfit -intstyle ise -p xc2c256-6-TQ144 -ofmt vhdl -optimize density -htmlrpt -loc on -slew fast -init low -inputs 32 -pterms 28 -unused keeper -terminate keeper -iostd LVCMOS18 full_adder_4bit.ngd 
+XSLTProcess full_adder_4bit_build.xml 
+tsim -intstyle ise full_adder_4bit full_adder_4bit.nga 
+hprep6 -s IEEE1149 -i full_adder_4bit 
+xst -intstyle ise -ifn "C:/Users/Raim/Documents/Laboratorio/full_adder/full_adder_4bit.xst" -ofn "C:/Users/Raim/Documents/Laboratorio/full_adder/full_adder_4bit.syr" 
+ngdbuild -intstyle ise -dd _ngo -uc full_adder4_MapeoSalidas.ucf -p xc2c256-TQ144-6 full_adder_4bit.ngc full_adder_4bit.ngd  
+cpldfit -intstyle ise -p xc2c256-6-TQ144 -ofmt vhdl -optimize density -htmlrpt -loc on -slew fast -init low -inputs 32 -pterms 28 -unused keeper -terminate keeper -iostd LVCMOS18 full_adder_4bit.ngd 
+XSLTProcess full_adder_4bit_build.xml 
+tsim -intstyle ise full_adder_4bit full_adder_4bit.nga 
+hprep6 -s IEEE1149 -i full_adder_4bit 

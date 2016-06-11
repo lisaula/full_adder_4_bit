@@ -1,0 +1,17 @@
+#switchs
+NET "x[0]" LOC="P10";
+NET "x[1]" LOC="P7";
+NET "x[2]" LOC="P5";
+NET "x[3]" LOC="P3";
+NET "y[0]" LOC="P9";
+NET "y[1]" LOC="P6";
+NET "y[2]" LOC="P4";
+NET "y[3]" LOC="P2";
+
+#Leds
+NET "s[0]" LOC="P69";
+NET "s[1]" LOC="P68";
+NET "s[2]" LOC="P66";
+NET "s[3]" LOC="P64";
+
+NET "cout" LOC="P142"; #Cout
